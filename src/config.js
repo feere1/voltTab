@@ -133,30 +133,31 @@ export const config = {
         { icon: 'fa-brands fa-reddit-alien', url: 'https://reddit.com/' },
         { icon: 'fa-brands fa-artstation', url: 'https://www.artstation.com/' },
         { icon: 'fa-brands fa-discord', url: 'https://discord.com/' },
-        { icon: 'fa-solid fa-paperclip', url: 'https://www.decisionproblem.com/paperclips/' },
-        { icon: 'fa-solid fa-dice-d20', url: 'https://zombiefox.github.io/diceRoller/' },
-        { icon: 'fa-brands fa-dribbble', url: 'https://dribbble.com/' },
+        { icon: 'fa-solid fa-paperclip', url: 'https://mega.nz/' },
+        { icon: 'fa-solid fa-bandcamp', url: 'https://bandcamp.com/' },
+        { icon: 'fa-brands fa-apple', url: 'https://music.apple.com/' },
       ]
     }, {
       name: 'Entertainment',
       description: 'Films, videos, streams',
       color: { primary: { hsl: [0, 0, 100] }, secondary: { hsl: [0, 60, 70] } },
       list: [
-        { icon: 'fa-brands fa-vimeo', url: 'https://vimeo.com/' },
+        { icon: 'fa-brands fa-amazon', url: 'https://primevideo.com/' },
         { icon: 'fa-brands fa-youtube', url: 'https://youtube.com/' },
-        { icon: 'fa-solid fa-clapperboard', url: 'https://netflix.com/' },
+        { icon: 'fa-solid fa-steam', url: 'https://steam.com/' },
         { icon: 'fa-brands fa-twitch', url: 'https://www.twitch.tv/' },
       ]
-    }, {
-      name: 'Ref',
-      description: 'Docs, code + specs',
-      color: { primary: { hsl: [0, 0, 100] }, secondary: { hsl: [40, 60, 70] } },
-      list: [
-        { icon: 'fa-solid fa-code', url: 'https://devdocs.io/' },
-        { icon: 'fa-brands fa-css3-alt', url: 'https://developer.mozilla.org/en-US/docs/Learn/CSS/' },
-        { icon: 'fa-brands fa-stack-overflow', url: 'https://stackoverflow.com/' },
-        { icon: 'fa-brands fa-bootstrap', url: 'https://getbootstrap.com/docs/5.2/getting-started/introduction/' },
-        { icon: 'fa-brands fa-npm', url: 'https://www.npmjs.com/' },
+    }, 
+            {
+      //   name: 'Ref',
+        // description: 'Docs, code + specs',
+        // color: { primary: { hsl: [0, 0, 100] }, secondary: { hsl: [40, 60, 70] } },
+        // list: [
+          // { icon: 'fa-solid fa-code', url: 'https://devdocs.io/' },
+          // { icon: 'fa-brands fa-css3-alt', url: 'https://developer.mozilla.org/en-US/docs/Learn/CSS/' },
+          // { icon: 'fa-brands fa-stack-overflow', url: 'https://stackoverflow.com/' },
+          // { icon: 'fa-brands fa-bootstrap', url: 'https://getbootstrap.com/docs/5.2/getting-started/introduction/' },
+          // { icon: 'fa-brands fa-npm', url: 'https://www.npmjs.com/' },
       ]
     }]
 
@@ -178,7 +179,7 @@ export const config = {
     // background layer 2 (middle)
     image: {
 
-      url: 'https://i.redd.it/niecy4jmlmh81.png', // background image url
+      url: 'https://cdnb.artstation.com/p/assets/images/images/050/128/233/large/ryan-groskamp-d7935ae8-42cf-49b1-9b6e-268b404dceb7-aday-whimsically-designed-red-castlechess-rock-vatican-tample-on-the-hillcharacter-concept-art-by-peter-m.jpg?1654112720', // background image url
 
       // opacity of background image
       opacity: 1, // range: min:0|max:1
