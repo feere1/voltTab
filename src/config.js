@@ -117,12 +117,10 @@ export const config = {
         // { image: 'https://example.com/image.jpg', url: 'https://website.com/' },
 
         { icon: 'fa-solid fa-envelope', url: 'https://mail.google.com/' },
-        { icon: 'fa-brands fa-slack', url: 'https://slack.com/signin/' },
+        { icon: 'fa-solid fa-reddit-alien', url: 'https://reddit.com/' },
         { icon: 'fa-brands fa-github', url: 'https://github.com/' },
-        { icon: 'fa-brands fa-codepen', url: 'https://codepen.io/' },
-        { icon: 'fa-solid fa-diamond', url: 'https://whimsical.com/login/' },
-        { icon: 'fa-brands fa-figma', url: 'https://figma.com/' },
-        { icon: 'fa-brands fa-dropbox', url: 'https://dropbox.com/' },
+        { icon: 'fa-brands fa-amazon', url: 'https://amazon.pl/' },
+        { icon: 'fa-brands fa-youtube', url: 'https://youtube.com/' },
         { icon: 'fa-brands fa-google-drive', url: 'https://drive.google.com/' },
         { icon: 'fa-solid fa-calendar-day', url: 'https://calendar.google.com/calendar/' },
       ]
